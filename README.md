@@ -39,8 +39,14 @@ O site foi desenvolvido com media queries para garantir uma boa experiência em 
 ## 🎥 Demonstração
 Confira o vídeo do projeto em funcionamento:
 
-![Portfólio - Google Chrome 2025-02-10 22-23-17](https://github.com/user-attachments/assets/2c0c4df8-0be0-441d-b30b-6789bcfc34be)
+![Portfólio - Google Chrome 2025-02-10 22-23-17](https://github.com/user-attachments/assets/8fd35ab0-281a-416d-897a-e600127714b4)
 
+
+
+## 🚀 Acesse o Projeto Online
+O portfólio está disponível em:
+
+🔗 [Projeto Portfólio](https://projeto-portfolio-phi-beige.vercel.app/)
 
 ## 📜 Licença
 Este projeto é de uso educacional e pode ser modificado para fins de estudo.
